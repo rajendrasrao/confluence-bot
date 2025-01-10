@@ -1,0 +1,10 @@
+chroma
+dotenv
+atlassian-python-api
+google-generativeai
+langchain-google-genai
+langchain-text-splitters
+langchain_community
+langchain_experimental
+tabulate
+chromadb

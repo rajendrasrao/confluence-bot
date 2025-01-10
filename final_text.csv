@@ -1,0 +1,416 @@
+,title,text,link
+0,Overview,"
+
+
+
+Say hello to your colleagues who want to know your name, pronouns, role, team and location (or if you're remote).
+
+
+
+
+
+
+
+
+
+
+
+📄 Recent pages that I've worked on
+
+
+
+
+
+
+
+Recent updates
+
+
+
+
+
+
+
+ 
+
+
+Manu Bhaker breaks silence on Khel Ratna snub: Awards not my goal
+
+                Dec 25, 2024 • contributed by Rajendra Singh Rao 
+
+
+
+
+ 
+
+
+Baby John
+
+                Dec 25, 2024 • contributed by Rajendra Singh Rao 
+
+
+
+
+ 
+
+
+Meeting notes in space
+
+                Dec 25, 2024 • contributed by Rajendra Singh Rao 
+
+
+
+
+ 
+
+
+2024-12-25 Meeting notes
+
+                Dec 25, 2024 • contributed by Rajendra Singh Rao 
+
+
+
+
+ 
+
+
+Getting started in Confluence
+
+                Dec 25, 2024 • contributed by Rajendra Singh Rao 
+
+
+
+
+Show More
+
+
+
+
+
+
+
+
+
+
+Blog stream
+Create a blog post to share news and announcements with your team and company.
+Create blog post
+
+
+
+
+
+
+
+
+🖐 Get in touch
+
+
+
+
+
+
+✉️ 
+💼 
+
+
+
+
+🔗 
+👤 
+
+
+
+
+
+
+End with a bang! Some options are: ""I am so grateful to be here at <Insert company name> and very excited to get started!"" or ""Looking forward to meeting all of you!"" or ""Can't wait to get to know all of you!""
+
+
+
+",https://raorsingh.atlassian.net/wiki/rest/api/content/65813
+1,Getting started in Confluence,"
+
+
+
+
+Welcome to Confluence!You can use Confluence to create a rich knowledge base or to collaborate with others using words, videos, images, graphics, charts, and graphs.This page walks you through some Confluence basics like spaces, pages, and elements that allow you to create and manage impactful content for your teams.
+On this page  Confluence 101https://www.youtube.com/embed/kaNPNbAT-as%22🗃️ SpacesSpaces are places for individuals, teams, and companies to organize and work on ideas, projects, documentation, and announcements. Spaces can be customized and integrated with both Atlassian tools and others. Create as many spaces as you need to get things done:
+
+
+
+
+
+TEAM SPACESGive each team their own space so they can work closely and make information easier to find.
+
+
+
+PROJECT SPACESPut all the information related to your project in one place so everyone can work together.
+
+
+
+PERSONAL SPACESStore anything you’re working on, keep your to-do lists, and polish content before moving it into a shared space.
+
+
+
+
+
+In the main navigation bar, select Spaces→ Create space to create a new space.More about spaces
+
+
+
+
+
+📄 ContentWhiteboards are your team’s place to brainstorm, build connections, and make ideas come to life.Pages are the building blocks of Confluence. Drop ideas into a page, to collaborate on, refine, and document work.Blog posts are individually-authored pieces of content that illustrate a particular perspective, typically shared broadly—great for documenting case studies or broad insights.
+
+
+
+To create a content within a space, select the + and choose your content type. You can also create content using the Create button in the main navigation bar.
+
+
+
+
+
+Press c to create content at any time.More about pages | More about whiteboards Visualize the relationship between spaces and pagesBack to top ⤴Making purposeful content
+
+
+
+
+
+✏️ Confluence editorChanges can only be made to page content when in the editor. Changes will save automatically and be pushed live the next time the page is published.🛠️ TemplatesIf you’re not sure where to start when setting up a new space or content, save time with a template.
+
+
+
+
+
+
+
+
+
+Press e when on a page to open the editor.More about page templates | Browse space templates
+
+
+
+
+
+🧰 ElementsElements are tools like calendars, note panels, and layouts, designed to help you make your pages more powerful.
+
+
+
+
+
+
+
+
+
+Press/to see a list of elements.More about elements
+
+
+
+
+
+📸 Header imagesMake your pages more visually impactful with emojis and header images. 🍕 Emojis aren’t just a fun way to spice up your page—they also show up in search, so using them strategically makes it easier to find pages later on.
+
+
+
+
+
+
+
+
+
+Select Add status at the top of the page, so teammates can see your progress at a glance.More about page header imagesBack to top ⤴Collaborating with teammates🧑‍💻 Real-time editingYou and up to 11 teammates can edit a page together in real time. Changes save and sync automatically so that everyone editing sees the same thing. Start editing together by selecting the Edit icon in the header.Press Command + Enter when in the editor to publish.More about collaborative editing💬 Mentions and commentsComments are a great way to start a conversation about a page or blog post. They allow you to remark on content, add important information, ask questions, and generally drive collaboration and teamwork.@mention a teammate to bring them into the conversation, and they can reply to and/or like comments. Leave comments for your team in different places, depending on the type of feedback you have:Inline comment →Added to a highlighted section of the page or post you are editing or viewing; good for targeted comments on a specific word or phrase.Page comment →Added below the content of the page or post you are viewing; good for comments that apply to the content as a whole.Leave an inline comment when viewing a page or in the editor.More about commentsBack to top ⤴Organizing your content
+
+
+
+
+
+🌳 Content treeThe content tree is where your content is organized within a space. Drag and drop to reorder or nest content, so you can more effectively share your work with others.
+
+
+
+
+
+
+
+
+
+After you publish, select [ to expand or collapse the content tree.More about the content tree
+
+
+
+
+
+📣 Space overviewTo help your teammates find relevant content, curate your space overview with useful elements like calendars and page statuses, and include information about what is in your space.
+
+
+
+
+
+
+
+
+
+Use the /info panel element to highlight important information in your space overview.More about space overview🌻 Content types
+
+
+
+
+
+WHITEBOARDIf your content still isn’t defined, whiteboards are a quick way to get messy ideas from many collaborators documented.
+
+
+
+BLOG POSTIf your content that won’t change over time, create it as a blog post. The blog feed for each space displays the most recent posts first.
+
+
+
+PAGEIf your content may change over time, create it as a page. Pages nest, so you can create categories and subcategories.
+
+
+
+
+
+Press k for a shareable link to your page or post.More about sharing content | More about whiteboards
+
+
+
+
+
+📏 TablesTables allow you to organize important information on a page to discuss it with your team. Present the information the way it makes sense to you—resize columns, color cells, rows and columns, and sort the table by clicking the column headers.
+
+
+
+
+
+
+
+
+
+Type /table to add a table at any time.More about tables
+
+
+
+
+
+🌱 DraftsConfluence autosaves your content as you work—if you select Close in the editor without publishing, you’ll create a draft, or an unpublished page you can get back to at any time.
+
+
+
+
+
+
+
+
+
+DRAFTOnly you can see your draft, unless you share a link to it.More about draftsBack to top ⤴What’s next?🧐 TL;DR
+
+
+
+
+
+These are the top three actions we think will help you get the most from Confluence.Explore a SpaceCreate a pageInvite a teammate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jira ❤️ ConfluenceChoose from 70+ templates to help you structure your thinking, improve documentation quality, and adopt best practices for agile development.
+
+
+
+https://www.youtube.com/watch?v=ohtDFXNAUns
+
+
+
+
+
+Back to top ⤴
+
+
+",https://raorsingh.atlassian.net/wiki/rest/api/content/65814
+2,Software development,"
+
+
+
+
+Welcome to your software project space!We've added some suggestions and placeholders. Everything is customizable.Get started with page templates:Template - Product requirementsTemplate - Meeting notesTemplate - Decision documentationCheck out Get the most out of your software project space for more tips.
+StatusWrite an updateJira issuesRecently updated
+
+
+
+
+
+
+
+
+
+ Display a list of recently changed pagesTo add the Recently updated element:When editing type /Find Recently updated in the dropdownSelect InsertTo edit the Recently updated element:Select the placeholder. The floating toolbar appears.Select Edit. The right panel opens.Modify the parameters. Your changes are saved as you go.Resume editing the page, and the panel closes.
+
+
+
+
+
+Roadmap
+
+
+
+
+
+
+
+
+
+ Adding a roadmap plannerCreate simple, visual timelines that are useful for planning projects, software releases and much more.Roadmaps are made up of:bars to indicate phases of work.lanes to differentiate between teams, products or streams.markers to highlight important dates and milestones.a timeline showing months or weeks.You can provide more information about items on your roadmap by linking a bar to a page.To add the Roadmap planner:When editing type /Find Roadmap planner in the dropdownSelect InsertTo edit the Roadmap planner:Select the placeholder. The floating toolbar appears.Select Edit. The right panel opens.Modify the parameters. Your changes are saved as you go.Resume editing the page, and the panel closes.
+
+
+
+
+
+
+
+
+",https://raorsingh.atlassian.net/wiki/rest/api/content/98436
+3,Template - Product requirements,"Target releaseType // to add a target release dateEpicType /Jira to add Jira epics and issuesDocument statusDRAFTDocument owner@ mention ownerDesigner@ designerTech lead@ leadTechnical writers@ writersQA 🎯 Objective\uD83D\uDCCA Success metricsGoalMetric\uD83E\uDD14 Assumptions\uD83C\uDF1F Milestones
+
+
+Dec2021Jan2022FebMarAprMayJunJulMilestone 1Milestone 2
+DashboardNotificationFeature 1Feature 2Feature 3Feature 4iOS AppAndroid
+
+\uD83D\uDDD2 RequirementsRequirementUser StoryImportanceJira IssueNotesHIGH     \uD83C\uDFA8 User interaction and design Open QuestionsQuestionAnswerDate Answered Out of Scope",https://raorsingh.atlassian.net/wiki/rest/api/content/98475
+4,Template - Meeting notes,\uD83D\uDDD3 Date\uD83D\uDC65 Participants\uD83E\uDD45 Goals\uD83D\uDDE3 Discussion topicsTimeItemPresenterNotes✅ Action items ⤴ Decisions,https://raorsingh.atlassian.net/wiki/rest/api/content/98490
+5,Template - Decision documentation,StatusNOT STARTED / IN PROGRESS / COMPLETEImpactHIGH / MEDIUM / LOWDriver Approver Contributors Informed Due date Resources \uD83D\uDCD8 Background\uD83D\uDCDA Relevant data\uD83C\uDF08 Options consideredOption 1Option 2DescriptionPros and consEstimated costLARGEMEDIUM✅ Action items\uD83C\uDF1F Outcome,https://raorsingh.atlassian.net/wiki/rest/api/content/98505
+6,Get the most out of your software project space,"Define your requirementsConfluence is the perfect place to start defining your requirements. You can use the Product requirements template to capture your requirements, then create your Jira epic and other issues right from the requirements page in Confluence.Here's how it works:Create a Confluence page using the Product requirements template.Choose the placeholder text 'Link to Jira epic or feature' and choose Create new issue to create your epic in Jira.Collaborate with your team to define your stories and save the page.Highlight text on your requirements page and choose theCreate Jira issue link to create stories in Jira, and automatically link them to your epic.Track the progress of the stories from the Confluence page or from within Jira.The tight integration between Confluence and Jira means you can easily access issues from the Confluence page and see their status at a glance, and from within Jira you can see links to related Confluence pages. All the information you need is right there.Manage your sprintsThere's often a lot of material in Confluence that provides useful context for your team during a sprint. These might be requirements documents, designs, tech specs, customer research and more. By linking these pages to epics, you make them easy for your team to find during the sprint.Here's how you can use Confluence to support your sprint from within Jira Agile:In Jira, create a Confluence page to plan your sprint. The page is created using the Meeting notes template and is automatically linked to the sprint.In an epic, link to useful Confluence pages, including requirements, designs, and more.Report on your progress to stakeholders using the Jira Report blueprint in Confluence.Use the Retrospective template in Confluence at the end of your sprint to take stock of what went well and not so well.For people who work mostly in Jira, the integration means that useful Confluence pages are only a click away.Your team doesn't work in a silo, so it's important to make it easy for anyone to find work you're currently working on.Use shortcuts to keep information accessibleNext time someone asks for a status update, direct them to your space. Confluence makes it easy to give other teams a window into your world.The space shortcuts highlighted below can be critical to navigation for both your team and your entire organization. Add team's roadmap, quarterly goals, meeting notes, important files, and decisions for easy access. You can even link to the work that's not in Confluence like tasks that are tracked in Jira or Trello. The homepage gives a snapshot, and the shortcut links make it easy to dive deeper into those pages.",https://raorsingh.atlassian.net/wiki/rest/api/content/98520
+7,Baby John,"Story:story:A former cop leads a double life to protect his daughter from an old enemy. When his identity is compromised, he must ensure his little girl’s safety while taking the nemesis down.Review: Bakery owner John D’Silva (Varun Dhawan) is a loving single dad to Khushi (Zara Zyanna). When her teacher, Tara (Wamiqa Gabbi), saves a young girl from being trafficked and takes her to the police station in John’s van, she unwittingly unravels John’s past as a fearless cop, DCP Satya Verma. His real identity exposed, John must confront his nemesis, a dreaded criminal Nana (Jackie Shroff), who seeks revenge for his son’s death. As Khushi’s life is put in danger, John is forced to step back into his past to protect her.John and Khushi's endearing bond sets the tone for the movie, with lighthearted moments featuring Tara. However, the promising narrative turns uneven when delving into the flashback of John's life as a supercop. Atlee, Sumit Arora and Kalees's story sticks to a tried-and-tested formula, with familiar tropes like kidnappers exploiting children and a hero rising against crime. Even Satya’s romance with a doctor, Meera (Keerthy Suresh), feels formulaic. The story gains steam once Nana’s son abducts a young girl and Satya brings him to justice.Throughout its runtime of two hours and forty-one minutes, the tracks of John's past and present-day struggles don't always feel cohesive, affecting the movie's overall engagement.That said, the film has offers entertaining moments, including playful self-references like Satya asking a goon about the fastest animal, to which the response is, “Bhediya, aapko toh pata hoga,” a nod to Varun’s horror-comedy. As an action entertainer, the stunt choreography offers some exciting sequences, as Kiran Koushik’s cinematography adds flair with pyrotechnics and sleek camera angles.Varun Dhawan impresses, balancing a dual role as a caring father and a fearless cop. His performance adds depth and conviction to the otherwise predictable narrative. Wamiqa Gabbi impresses with her screen presence, though her character’s background as an undercover cop remains unexplored. Rajpal Yadav as constable Sevakram and Jacky, John’s trusted aide, is a delightful surprise, offering more than just comic relief. Jackie Shroff’s menacing Nana leaves a lasting impression, making the most of his screen time.The movie has its moments as an actioner, but in terms of content and narrative, it could have more impactful.",https://raorsingh.atlassian.net/wiki/rest/api/content/98538
+8,Manu Bhaker breaks silence on Khel Ratna snub: Awards not my goal,"Indian shooter Manu Bhaker has addressed the controversy surrounding her exclusion from the nominees for the prestigious Major Dhyan Chand Khel Ratna award. The Paris Olympics medallist clarified her stance in a statement, emphasising that while awards are motivational, they are not her ultimate goal.""As an athlete, my role is to play and perform for my country,"" Bhaker said. She added that awards and recognition inspire her but do not define her journey. Bhaker acknowledged a potential lapse in her nomination process and assured that efforts are being made to address the issue.The Sports Ministry reportedly stated that Bhaker did not apply for the award, but her father, Ram Kishan, contested this claim, asserting that the nomination was submitted, and no response was received.Despite the controversy, Bhaker remains focused on her performance. ""Irrespective of the award, I shall remain motivated to win more medals for my country,"" she said, urging people to avoid speculation about the matter.The 12-member National Sports Day committee, led by retired Supreme Court judge Justice V Ramasubramanian, did not include Bhaker in the list of nominees. Among those nominated were Indian men's hockey team captain Harmanpreet Singh and para-athlete Praveen Kumar.Bhaker's statement reflects her determination to prioritise her sporting career over external recognition. Her focus remains steadfast on representing India and achieving success on the global stage.Speaking to India Today, Ram Kishan said, ""What's the point of getting two medals in a single Olympics if you have to beg for awards?""""One government official is deciding, and committee members are silent, not giving their opinion. I don't understand. Is this the way you are encouraging athletes?"" her father added.""We applied for the award but have heard nothing from the committee. Why are parents encouraging their kids to play; they should push them to become IRS officers in government,"" he said.",https://raorsingh.atlassian.net/wiki/rest/api/content/131085
+9,2024-12-25 Meeting notes,"Pushpa 2 collection details:'Pushpa 2' has created history as it has crossed the record of Prabhas starrer 'Baahubali 2' which is the highest grossing Indian film. The collection of that was Rs 1040 crore. And now the collection of 'Pushpa 2' is higher and the film is still continuing at the box office. While Pushpa 2 and Allu Arjun may have surrounded themselves amidst the stampede controversy, there certainly aint no stopping to their movie.Day 0 ₹ 10.65 CrDay 1 ₹ 164.25 CrDay 2 ₹ 93.8 Cr .Day 3 ₹ 119.25 CrDay 4 ₹ 141.05 CrDay 5 ₹ 64.45 Cr Story: Pushpa 2: The Rule picks up from the dramatic finale of the first instalment, plunging audiences back into the gritty, high-stakes world of Pushpa Raj (Allu Arjun). This sequel raises the stakes, pitting Pushpa against Banwar Singh Shekhawat (Fahadh Faasil) and other formidable adversaries, while exploring his personal dilemmas more deeply. The overarching question—can Pushpa outsmart his opponents, or is there a twist in the tale?Review: Director Sukumar’s brilliance shines through in Pushpa 2: The Rule. He masterfully balances a mass entertainer with a film rich in social commentary, weaving layers of emotion, action, and intrigue into a compelling cinematic experience. Despite the extensive runtime of 3 hours and 20 minutes, the film keeps its audience riveted with a mix of high-octane sequences, character-driven moments, and a poignant emotional arc.Sukumar doesn’t just focus on the grandeur of action; he incorporates subtle humour through the quirks and mannerisms of the characters, whether it’s Pushpa Raj, Banwar Singh Shekhawat, or the supporting cast. Each character has a distinct identity that enriches the story. Even when the film seems to linger towards the end, the emotional payoff in the climax redeems it, providing satisfying closure to Pushpa’s internal and external conflicts.",https://raorsingh.atlassian.net/wiki/rest/api/content/262146
+10,Meeting notes in space,"Create meeting noteIncomplete tasks from meetingsTask reportLooking good, no incomplete tasks.Decisions from meetings
+
+
+
+            Page Title
+        
+
+            Decisions
+        
+
+
+
+
+
+                No decisions found
+            
+
+
+
+All meeting notesTitleCreatorModified2024-12-25 Meeting notesRajendra Singh RaoDec 25, 2024 ",https://raorsingh.atlassian.net/wiki/rest/api/content/262167
